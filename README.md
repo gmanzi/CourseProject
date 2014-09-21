@@ -11,3 +11,14 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 * run_analysis.R- script that processes the data
 * tidyData.txt- Outpu file from run_analysis.R
 * CodeBook.md- Explains final structure of the tidy data
+
+##Required R packages
+* plyr
+* reshape2
+
+##Steps taken in script
+* Load all raw data
+* Merge data
+* Identify, keep, subset, and label "mean" and "standard deviation" columns
+* Melt data subset
+* Write tidy data set
