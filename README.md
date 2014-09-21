@@ -9,7 +9,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 ##File Contents
 * README.md
 * run_analysis.R- script that processes the data
-* tidyData.txt- Outpu file from run_analysis.R
+* tidyData.txt- Output file from run_analysis.R
 * CodeBook.md- Explains final structure of the tidy data
 
 ##Required R packages
