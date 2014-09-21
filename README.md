@@ -7,7 +7,7 @@ The data for the project was found at:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 ##File Contents
-1.README.md
-2.run_analysis.R- script that processes the data
-3.tidyData.txt- Outpu file from run_analysis.R
-4.CodeBook.md- Explains final structure of the tidy data
+*README.md
+*run_analysis.R- script that processes the data
+*tidyData.txt- Outpu file from run_analysis.R
+*CodeBook.md- Explains final structure of the tidy data
